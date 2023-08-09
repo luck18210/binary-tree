@@ -1,6 +1,6 @@
 # BinaryTree Visualizer
 Small React web application to visualize binary trees. <br><br>
-![Deployment](https://github.com/luck18210/BinaryTree/workflows/Deploy%20to%20github%20pages/badge.svg) <br>
+![Deployment](https://github.com/FreekDS/BinaryTree/workflows/Deploy%20to%20github%20pages/badge.svg) <br>
 
 ## Information
 Binary trees can be created with either integer numbers or names (strings).
