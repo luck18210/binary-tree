@@ -22,8 +22,8 @@ function App() {
                     Binary Tree Visualizer
                 </NavbarBrand>
                 <div className={"ml-auto mt-2"}>
-                    <GitHubButton href="https://github.com/FreekDS/BinaryTree/"
-                                  aria-label="Watch FreekDS/BinaryTree on GitHub">Source code</GitHubButton>
+                    <GitHubButton href="https://github.com/luck18210/BinaryTree/"
+                                  aria-label="Watch luck18210/BinaryTree on GitHub">Source code</GitHubButton>
                 </div>
             </Navbar>
 
